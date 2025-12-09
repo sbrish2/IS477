@@ -1,0 +1,7 @@
+# Core Python libraries required
+pandas
+matplotlib
+
+# Jupyter environment
+notebook
+jupyter
